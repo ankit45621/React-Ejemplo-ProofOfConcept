@@ -17,9 +17,9 @@ steps for run project:
     * Control Panel -> System -> Advanced system settings -> Environment Variables
     * Select PATH and choose to edit it.
     * Add C:\Program Files\nodejs
-4 Go to the directory(C:\React-Ejemplo-ProofOfConcept) and open command promt here
-5 Run `npm i` to intall reactjs in nodejs.
-6 Run ejemplo.bat file at C:\React-Ejemplo-ProofOfConcept
+4. Go to the directory(C:\React-Ejemplo-ProofOfConcept) and open command promt here
+5. Run `npm i` to intall reactjs in nodejs.
+6. Run ejemplo.bat file at C:\React-Ejemplo-ProofOfConcept
 
 Enjoy.
 
